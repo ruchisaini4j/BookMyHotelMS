@@ -1,8 +1,17 @@
-Ribbon Example
+# Ribbon
 
-Changes can be seen in BookMyHotelWebApp
-No Change in MicroServices Code
+Changes are done in WebApplication code to use ribbon
 
-Once Eureka Server is running, run all microservices and web app
+No Change in microservices code as no microservice is interacting with other microservice
+
+Run all Microservices
+
 Make sure to run two instances of Registration MicroService
+
+Run the webapplication also 
+
+Check in Eureka UI that all microservices and webapplication are registered
+
+Test using http://localhost:6060 as before
+
 Login multiple times and you will see that request is load balanced among different registration microservice instances
