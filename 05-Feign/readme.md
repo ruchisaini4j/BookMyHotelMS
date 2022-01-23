@@ -2,7 +2,7 @@
 
 Changes are done in WebApplication code to use feign
 
-No Change in microservices code as no microservice is interacting with other microservice
+No Change in microservices code as no microservice is interacting with other microservices
 
 Run all Microservices
 
