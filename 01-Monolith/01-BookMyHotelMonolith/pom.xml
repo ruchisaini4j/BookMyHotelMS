@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bookMyHotel</groupId>
-	<artifactId>BookMyHotel</artifactId>
+	<artifactId>01-BookMyHotelMonolith</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>BookMyHotelMono</name>
+	<name>01-BookMyHotelMonolith</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
