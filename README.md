@@ -10,7 +10,9 @@ Test using http://localhost:6060
 
 Use userid as cr1 and password as pass to login
 
-search hotels using city as noida,state as up and country as india
+You will see the home page with links to check yourregistration details, existing bookings and search hotels for booking
+
+Search hotels using city as noida,state as up and country as india
 
 book the hotel
 
