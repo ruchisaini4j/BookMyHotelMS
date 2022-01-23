@@ -8,6 +8,12 @@ Run this spring boot Application
 
 Test using http://localhost:6060
 
+Use userid as cr1 and password as pass to login
+
+search hotels using city as noida,state as up and country as india
+
+book the hotel
+
 ## Eureka Server
 Run the Eureka Server
 
