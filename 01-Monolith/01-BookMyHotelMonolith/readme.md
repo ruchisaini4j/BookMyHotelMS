@@ -12,4 +12,4 @@ You will see the home page with links to check your registration details, existi
 
 Search hotels using city as noida,state as up and country as india
 
-Book the hotel
+Book the hotel from the list of displayed hotels
