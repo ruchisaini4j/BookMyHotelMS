@@ -1,7 +1,13 @@
-Feign Example
+# Feign
 
-Changes can be seen in BookMyHotelWebApp
-No Change in MicroServices Code
+Changes are done in WebApplication code to use feign
 
-Once Eureka Server is running, run all microservices and web app
-Test using webapp
+No Change in microservices code as no microservice is interacting with other microservice
+
+Run all Microservices
+
+Run the webapplication also
+
+Check in Eureka UI that all microservices and webapplication are registered
+
+Test using http://localhost:6060
